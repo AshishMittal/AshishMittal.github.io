@@ -1,1 +1,1 @@
-This is the source code is derived from Jon Barron's <a href="https://jonbarron.info/\">personal website</a> (see the <a href="https://github.com/jonbarron/jonbarron_website\">source code</a> on GitHub).
+This source code is derived from Jon Barron's <a href="https://jonbarron.info/\">personal website</a> (see the <a href="https://github.com/jonbarron/jonbarron_website\">source code</a> on GitHub).
